@@ -1,0 +1,4 @@
+S:\VS_STUDIO\NEW\Simple_Calculator\Simple_Calculator\x64\Debug\Simple_Calculator.vcxproj.AssemblyReference.cache
+S:\VS_STUDIO\NEW\Simple_Calculator\Simple_Calculator\x64\Debug\Simple_Calculator.vcxproj.SuggestedBindingRedirects.cache
+S:\VS_STUDIO\NEW\Simple_Calculator\Simple_Calculator\x64\Debug\Simple_Calculator.MyForm.resources
+S:\VS_STUDIO\NEW\Simple_Calculator\Simple_Calculator\x64\Debug\Simple_Calculator.vcxproj.GenerateResource.cache
